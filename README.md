@@ -2,7 +2,7 @@
 
 #### This repo is my first project to be publiced using github pages.
 
-#### For anyone can read Vietnamese this is the tutorial for deploy project to github pages.
+#### For anyone can read Vietnamese this is the tutorial for deploying project to github pages.
 
 ##### 1. Cài đặt “gh-pages” package
 
