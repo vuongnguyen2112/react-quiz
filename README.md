@@ -1,4 +1,4 @@
-# Demo page: https://vuongnguyen2112.github.io/react-quiz/
+### Demo page: https://vuongnguyen2112.github.io/react-quiz/
 
 # Getting Started with Create React App
 
