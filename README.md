@@ -19,7 +19,8 @@ Lệnh để deploy, redeploy ứng dụng:
 "deploy": "gh-pages -d build",
 
 ##### 3. Deploy ứng dụng bằng câu lệnh
-npm run deploy
+#### npm run deploy
+
 Vậy là xong ồi đó. Các bạn có thể truy cập vào trang https://{username-git-hub}.github.io/{tên-repository}/ để xem thành quả.
 
 Trong trường hợp này, các bạn có thể vào xem thành quả của mình tại trang: "https://vuongnguyen2112.github.io/demo-deploy-github-pages/"
